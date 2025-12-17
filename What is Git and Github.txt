@@ -1,0 +1,24 @@
+What is Git and Github?
+Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+GitHub is a web platform for developers to store, manage, and collaborate on code using Git (a version control system) to track changes.
+
+Created a Personal Portfolio
+->created a folder
+->created separate html,css files inside Portfolio folder
+->Code for Portfolio
+->Pushed code into GitHub by creating new repository and commands
+---->git init
+---->git add .(to push all files at once)(if only one file needed to push-give the name of file instead of .)
+---->git commit -m"s"
+---->git remote add origin https://github.com/SwethaR2706/3-2Training.git
+---->git branch
+---->git branch -M master(if received master/main in the previous commands response, give accordingly)
+---->git push -u origin master
+->refresh your repository in GitHub
+->click on settings
+->go to pages
+->select master in the Branch dropdown if it had none as default and save it
+->after selecting master, the page refreshes and asks for custom domain name
+->name it something and save it
+->if received error name it again and save it
+->now click on visit site, you'll see the Portfolio website you've created.
